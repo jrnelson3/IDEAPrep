@@ -1,19 +1,19 @@
 # IDEA PrEP
 The IDEA PrEP script is ti ensure the end user has the environment set to run python script as needed
 
-#Setting up your environtment:
+# Setting up your environtment
 
 PLEASE MAKE SURE TO HAVE DEVSHELL INSTALL PIROR TO ATTEMPTING THIS SETUP
 
 If you do not have nano/git installed run the command "​ds tool install git" before taking the first step below. 
 
-#Automatic
+# Automatic
 
 curl -sL https://raw.githubusercontent.com/jrnelson3/IDEAPrep/refs/heads/main/IDEAPrEP.sh
 chmod +x IDEAPrEP.sh
 ./IDEAPrEP.sh
 
-#Manual
+# Manual
 
 First from script, use the below bash script and open it in Notepad or similar editor:
 
